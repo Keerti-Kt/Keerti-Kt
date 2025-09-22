@@ -23,7 +23,7 @@ I enjoy turning raw data into actionable insights and building interactive dashb
 
 ### Excel - Hospital Emergency Room Dashboard
 - Cleaned and transformed raw hospital data using **Power Query**.
-- Created an interactive **macro-enabled dashboard** with monthly reports.
+- Created an interactive dashboard with monthly reports.
 - Automated KPIs and pivot visuals for quick decision-making.
   [View Project](https://github.com/Keerti-Kt/hospital_er_dashboard)
 
