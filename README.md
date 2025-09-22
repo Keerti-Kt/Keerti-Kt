@@ -33,7 +33,7 @@ I enjoy turning raw data into actionable insights and building interactive dashb
 - Google Data Analytics Certificate (In Progress - Coursera)
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/keerti-kalakoti
+- [LinkedIn](https://www.linkedin.com/in/keerti-kalakoti)
 
 **Always learning, building, and exploring new ways to turn data into insights.**
 
