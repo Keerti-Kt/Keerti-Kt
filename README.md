@@ -18,7 +18,7 @@ I enjoy turning raw data into actionable insights and building interactive dashb
 ### Credit Card Transaction Analysis Dashboard | PostgreSQL | Power BI | DAX |
 - Built an interactive dashboard in Microsoft Power BI analyzing **667k+** credit card transactions generating **$57M** revenue.
 - Indentified key business insights including **63%** of revenue generated through swipe transactions and high spending among customers aged **40-50**.
-- Simulated real-world analytics workflows by inserting additonal weekly data into a PostgreSQL database and refreshing dashboards to update insights. [View Project]()
+- Simulated real-world analytics workflows by inserting additonal weekly data into a PostgreSQL database and refreshing dashboards to update insights. [View Project](https://github.com/Keerti-Kt/Credit-Card-Transaction-Analysis)
   
 ### Online Mobile Sales Performance Sales Analysis | Power Bi, DAX, Data Modeling |
   - Developed an interactive Power BI dashboard to track revenue, city_wise, ratings, and payment behavior.
