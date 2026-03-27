@@ -13,13 +13,13 @@ I enjoy turning raw data into actionable insights and building interactive dashb
 - Analyzed paid marketing campaign data across Facebook, Google, Instagram, and LinkedIn to evaluate advertising performance.
 - Built interactive Excel dashboard using Pivot Tables and charts to monitor campaign KPIs and performance trends.
 - Calculated key marketing metrics including ROAS, CPL, and CPA to assess campaign efficiency.
-- Identified high-performing channels and budget optimizations opportunities, discovering that **LinkedIn** delivered the **highest ROAS** and **Lowest CPA**.
+- Identified high-performing channels and budget optimizations opportunities, discovering that **LinkedIn** delivered the **highest ROAS** and **Lowest CPA**. [View Project](https://github.com/Keerti-Kt/Paid-Marketing-Campaign-Performance-Dashboard)
 
 ### Credit Card Transaction Analysis Dashboard | PostgreSQL | Power BI | DAX |
 - Built an interactive dashboard in Microsoft Power BI analyzing **667k+** credit card transactions generating **$57M** revenue.
 - Indentified key business insights including **63%** of revenue generated through swipe transactions and high spending among customers aged **40-50**.
-- Simulated real-world analytics workflows by inserting additonal weekly data into a PostgreSQL database and refreshing dashboards to update insights.
-
+- Simulated real-world analytics workflows by inserting additonal weekly data into a PostgreSQL database and refreshing dashboards to update insights. [View Project]()
+  
 ### Online Mobile Sales Performance Sales Analysis | Power Bi, DAX, Data Modeling |
   - Developed an interactive Power BI dashboard to track revenue, city_wise, ratings, and payment behavior.
   - Analyzed **INR 769.20M** in revenue, **19k** units sold, and **4k* transactions across four years to identify sales and demand trends.
