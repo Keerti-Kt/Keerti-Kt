@@ -9,6 +9,12 @@ I enjoy turning raw data into actionable insights and building interactive dashb
 - **Other Tools**: Google Sheets, GitHub
 
 ## Portfolio Projects
+### Customer Shopping Behavior Analysis | Python, PostgreSQL, Power BI |
+- Built an end-to-end customer analytics project using Python, PostgreSQL, and Pwer BI, processing ~3.9K customer records.
+- Wrote SQL queries (including CTEs and window functions) to analyze customer sgementation, product performance, and revenue trends.
+- Identified key insights such as *68%* revenue contribution from male customers and zero subscription adoption among female users.
+- Developed an interactive dashboard highlighting top-performing category (*Clothing*), highest revenue season (*Fall*), and dominant customer segment (*Young Adults*). [View Project]
+
 ### Paid Marketing Campaign Performance Analysis | Excel, Data Cleaning, Data Visualization | 
 - Analyzed paid marketing campaign data across Facebook, Google, Instagram, and LinkedIn to evaluate advertising performance.
 - Built interactive Excel dashboard using Pivot Tables and charts to monitor campaign KPIs and performance trends.
